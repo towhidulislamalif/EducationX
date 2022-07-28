@@ -1,8 +1,9 @@
 /* style */
-.main-clr {
-    color: #0C46E8;
+.accordion .accordion-button.collapsed {
+    background-color: #ef4444;
 }
 
-.secondary-clr {
-    color: #BECAD7;
+.accordion .accordion-button {
+    background-color: #84cc16;
+    color: #fff;
 }
