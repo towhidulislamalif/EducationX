@@ -1,4 +1,13 @@
-/* style */
+/* global style */
+.primary-clr {
+    background-color: #1976D2;
+}
+
+.secondary-clr {
+    background-color: #BA68C8;
+}
+
+/* global style end */
 .accordion .accordion-button.collapsed {
     background-color: #2196F3;
 }
