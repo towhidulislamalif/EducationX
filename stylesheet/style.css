@@ -1,9 +1,9 @@
 /* style */
 .accordion .accordion-button.collapsed {
-    background-color: #ef4444;
+    background-color: #2196F3;
 }
 
 .accordion .accordion-button {
-    background-color: #84cc16;
+    background-color: #BA68C8;
     color: #fff;
 }
