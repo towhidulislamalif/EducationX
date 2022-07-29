@@ -8,6 +8,16 @@
 }
 
 /* global style end */
+.learn {
+    background-color: #F4FAFD;
+}
+
+footer {
+    background-color: #535B80;
+}
+
+/* banner slider end */
+
 .accordion .accordion-button.collapsed {
     background-color: #2196F3;
 }
